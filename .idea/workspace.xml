@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48d2d849-1b8c-48a5-9493-557e8bf9779d" name="Default Changelist" comment="" />
+    <list default="true" id="48d2d849-1b8c-48a5-9493-557e8bf9779d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Ability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Attack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MeleeAttack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RangedAttack.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +29,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Throc\IdeaProjects\CST338_SoftwareDesign_Strategy_Homework\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -66,6 +76,7 @@
       <workItem from="1570504341095" duration="4385000" />
       <workItem from="1570509092071" duration="8000" />
       <workItem from="1570509205536" duration="152000" />
+      <workItem from="1570678367261" duration="103000" />
     </task>
     <servers />
   </component>
