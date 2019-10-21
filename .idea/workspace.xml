@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48d2d849-1b8c-48a5-9493-557e8bf9779d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GithubLink" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Monsters/Imp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ability.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abilities/Ability.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Attack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abilities/Attack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Imp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Kobold.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Monsters/Kobold.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MeleeAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abilities/MeleeAttack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Monsters/Monster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RangedAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abilities/RangedAttack.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +27,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -88,6 +76,7 @@
       <workItem from="1570509205536" duration="152000" />
       <workItem from="1570678367261" duration="522000" />
       <workItem from="1571437461875" duration="6078000" />
+      <workItem from="1571598898792" duration="645000" />
     </task>
     <servers />
   </component>
